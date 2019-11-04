@@ -52,9 +52,10 @@ body, input, button {
     margin-top: 100px;
 }
 
-#img {
-    height: 500px;
+#image {
+    height: auto;
     width: 600px;
+    max-width: max-content;
 }
 
 #img-caption {
